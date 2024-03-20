@@ -6,3 +6,31 @@ body {
     font-style: italic;
     background: rgb(230, 230, 230);
   }
+
+  #consoleLog {
+  border: 4px solid #2a1b1b;
+  padding: 10px 20px 10px 20px;
+  margin: 20px;
+  width: 600px;
+  background: rgb(191, 188, 188);
+  }
+
+  #allert {
+    border: 4px solid #2a1b1b;
+    padding: 10px 20px 10px 20px;
+    margin: 20px;
+    width: 600px;
+    background: rgb(191, 188, 188);
+    }
+
+    #promt {
+      border: 4px solid #2a1b1b;
+      padding: 10px 20px 10px 20px;
+      margin: 20px;
+      width: 600px;
+      background: rgb(191, 188, 188);
+      }
+
+     
+
+    

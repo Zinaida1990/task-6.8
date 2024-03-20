@@ -1,11 +1,10 @@
 #testTextField{
-    border-radius: 10px;
-box-shadow: 0 0 7px 3px #ff4f00;
-text-indent: 30px;
-padding: 10px 20px 10px 20px;
-margin: 20px auto;
-width: 400px;
-text-align: center;
+    color: #686666 ;
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: rgb(230, 230, 230);
+    
     }
 
    
